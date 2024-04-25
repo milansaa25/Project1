@@ -1,0 +1,37 @@
+.hero 
+{
+    background: linear-gradient(rgba(255, 0, 0, 0.596), rgba(0, 128, 0, 0.544)), url(https://www.mountainsherpatrekking.com/uploads//post-image/1683869239_thump.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+.logo 
+{
+    width: 90px;
+}
+.navbar-expand-lg .navbar-nav .nav-link
+{
+    color: #fff;
+}
+.tour img 
+{
+    height: 250px;
+    object-fit: cover;
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link
+{
+    background: transparent;
+    color: #000;
+    font-weight: bold;
+}
+.callback
+{
+    height: 80vh;
+    background: linear-gradient(rgba(0, 128, 0, 0.724), rgba(0, 128, 0, 0.57)), url(https://nepalwanders.com/wp-content/themes/nepalwanders/img/youtube.jpg);
+}
+.small{
+    width: 70px;
+    height: 70px;
+    background: #fff;
+    border-radius: 50%;
+    margin: auto;
+}
